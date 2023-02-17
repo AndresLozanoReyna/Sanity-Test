@@ -1,0 +1,6 @@
+{
+  "id": "cle8s2v3h0000lf084ef5t6ox",
+  "name": "sanity-fleek-test",
+  "distDir": "dist",
+  "buildCommand": "npm run build"
+}
